@@ -1,0 +1,7 @@
+{
+  "name": "GeoScout",
+  "description": "Extract structured data like phone numbers and addresses from nearby places using Gemini and Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
